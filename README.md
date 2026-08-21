@@ -7,14 +7,17 @@
 <a href="https://www.linkedin.com/in/arunkumar-perannagari/">
   <img src="https://img.shields.io/badge/LinkedIn-Arun%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:abhiperannagari@gmail.com">
   <img src="https://img.shields.io/badge/Email-abhiperannagari%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/ArunKumarPerannagari">
   <img src="https://img.shields.io/badge/GitHub-ArunKumarPerannagari-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+(MERN);Turning+Ideas+into+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI+%7C+Problem+Solver;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
@@ -45,19 +48,27 @@
 <div align="center">
 
 **Languages & Markup**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 
-<br/><br/>
+<br/>
+<br/>
 
 **Frameworks & Libraries**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
 
-<br/><br/>
+<br/>
+<br/>
 
 **Databases & Tools**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=dark" />
 
 </div>
@@ -66,8 +77,8 @@
 
 <div align="center">
 
-| Category | Stack |
-|---|---|
+| Category Stack | |
+| --------------------- | ------------------------------------------------------------------------------ |
 | **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS |
 | **Backend** | Node.js · Express.js · REST APIs |
 | **Database** | MongoDB · MySQL |
@@ -82,6 +93,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArunKumarPerannagari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true" />
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKumarPerannagari&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 <br/>
@@ -102,17 +114,26 @@
 
 <br/>
 
-<!--
-  🐍 Contribution Snake — add this GitHub Action to auto-generate the snake animation:
-  https://github.com/Platane/snk
--->
 <div align="center">
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation placeholder" src="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </picture>
 
 </div>
@@ -141,13 +162,21 @@
 <div align="center">
 
 **Tech Stack**
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel&theme=dark" />
 
-<br/><br/>
+<br/>
+<br/>
 
-<a href="https://github.com/ArunKumarPerannagari/resume-ats-analyzer"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://resume-ats-analyzer-nine.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/ArunKumarPerannagari/resume-ats-analyzer">
+  <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://resume-ats-analyzer-nine.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -162,7 +191,9 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-38BDF8?style=for-the-badge&logo=openai&logoColor=white" />
+
 <img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </div>
@@ -186,9 +217,11 @@
 <a href="https://github.com/ArunKumarPerannagari">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/arunkumar-perannagari/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:abhiperannagari@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -206,5 +239,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" />
 
 <div align="center">
+
 <sub>© 2026 Perannagari Arun Kumar · Built with ❤️ and a lot of ☕</sub>
+
 </div>
