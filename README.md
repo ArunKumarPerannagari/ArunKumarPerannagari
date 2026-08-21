@@ -30,9 +30,9 @@
 
 - 🎓 **Fresher** Full Stack Web Developer from **India**, passionate about building fast, clean, and user-focused web applications.
 - 🧩 Skilled in the **MERN stack** — React, Node.js, Express.js, and MongoDB — with a strong foundation in JavaScript & TypeScript.
+- 🤖 Recently built an **AI-powered production platform** integrating the Google Gemini API for intelligent resume analysis.
 - 🎨 I care deeply about **UI/UX**, writing maintainable code, and shipping products that feel premium.
-- 🚀 Currently sharpening my skills in **System Design, AI, AWS, and DevOps** to become a well-rounded engineer.
-- 🌱 Always learning, always building — my GitHub is my digital workshop.
+- 🚀 Currently sharpening my skills in **System Design, AI, and AWS** to become a well-rounded engineer.
 - 💬 Open to **Full-Time Roles**, **Internships**, and **Collaborative Projects**.
 - ⚡ Fun fact: I believe good code is like good design — invisible when it works.
 
@@ -52,7 +52,7 @@
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
 
 <br/><br/>
 
@@ -68,7 +68,7 @@
 
 | Category | Stack |
 |---|---|
-| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Next.js · Bootstrap · Tailwind CSS |
+| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS |
 | **Backend** | Node.js · Express.js · REST APIs |
 | **Database** | MongoDB · MySQL |
 | **Tools & Platforms** | Git · GitHub · VS Code · Postman |
@@ -119,76 +119,41 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🛒 E-Commerce Platform
-A full-featured e-commerce web app with authentication, cart, checkout flow, and an admin dashboard for product/order management.
+<div align="center">
 
-**Tech Stack:**
+### 🤖 AI Resume ATS Analyzer
+
+**An AI-powered full-stack platform that analyzes resumes against job descriptions and delivers actionable, data-driven hiring insights.**
+
+</div>
+
+- Built a full-stack AI-powered ATS platform that analyzes PDF resumes against job descriptions, generating ATS compatibility scores, keyword matches, missing skills, and actionable skill-gap insights.
+- Engineered RESTful backend APIs using **Node.js** and **Express.js**, with **MongoDB/Mongoose** for persistent storage of users, resumes, and analysis history — including resume upload, parsing, analysis, history, and comparison workflows.
+- Integrated the **Google Gemini API** to provide AI-driven resume evaluation, identifying strengths, weaknesses, missing skills, and personalized recommendations to improve alignment with target job descriptions.
+- Implemented **JWT-based authentication** and protected API routes, configured environment-based secret management, and deployed the production application using **Vercel** (frontend) and **Render** (backend).
+
+<div align="center">
+
+**Tech Stack**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel&theme=dark" />
 
-<p>
-<a href="https://github.com/ArunKumarPerannagari"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/ArunKumarPerannagari/resume-ats-analyzer"><img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://resume-ats-analyzer-nine.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-### 📋 Task Management App
-A collaborative task/project management tool with real-time updates, drag-and-drop boards, and JWT-based authentication.
-
-**Tech Stack:**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,tailwind&theme=dark" />
-
-<p>
-<a href="https://github.com/ArunKumarPerannagari"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 Blog / Content Platform
-A modern blogging platform with markdown-based content editing, categories, search, and a responsive reading experience.
-
-**Tech Stack:**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,bootstrap&theme=dark" />
-
-<p>
-<a href="https://github.com/ArunKumarPerannagari"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 REST API Service
-A scalable, well-documented REST API with authentication, rate-limiting, and Postman-tested endpoints, built for production use.
-
-**Tech Stack:**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
-
-<p>
-<a href="https://github.com/ArunKumarPerannagari"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
+</div>
 
 </td>
 </tr>
 </table>
-
-> 💡 *Replace the placeholders above with your real repository and live demo links to keep this section 100% recruiter-ready.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -199,7 +164,6 @@ A scalable, well-documented REST API with authentication, rate-limiting, and Pos
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-38BDF8?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -227,9 +191,6 @@ A scalable, well-documented REST API with authentication, rate-limiting, and Pos
 </a>
 <a href="mailto:abhiperannagari@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
