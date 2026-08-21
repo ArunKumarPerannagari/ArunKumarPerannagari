@@ -31,13 +31,13 @@
 
 <img align="right" width="290" src="https://raw.githubusercontent.com/OleksiyRudenko/OleksiyRudenko/main/img/coding.gif" alt="coding gif" />
 
-- 🎓 **Fresher** Full Stack Web Developer from **India**, passionate about building fast, clean, and user-focused web applications.
-- 🧩 Skilled in the **MERN stack** — React, Node.js, Express.js, and MongoDB — with a strong foundation in JavaScript & TypeScript.
-- 🤖 Recently built an **AI-powered production platform** integrating the Google Gemini API for intelligent resume analysis.
-- 🎨 I care deeply about **UI/UX**, writing maintainable code, and shipping products that feel premium.
-- 🚀 Currently sharpening my skills in **System Design, AI, and AWS** to become a well-rounded engineer.
-- 💬 Open to **Full-Time Roles**, **Internships**, and **Collaborative Projects**.
-- ⚡ Fun fact: I believe good code is like good design — invisible when it works.
+* 🎓 **Fresher** Full Stack Web Developer from **India**, passionate about building fast, clean, and user-focused web applications.
+* 🧩 Skilled in the **MERN stack** — React, Node.js, Express.js, and MongoDB — with a strong foundation in JavaScript & TypeScript.
+* 🤖 Recently built an **AI-powered production platform** integrating the Google Gemini API for intelligent resume analysis.
+* 🎨 I care deeply about **UI/UX**, writing maintainable code, and shipping products that feel premium.
+* 🚀 Currently sharpening my skills in **System Design, AI, and AWS** to become a well-rounded engineer.
+* 💬 Open to **Full-Time Roles**, **Internships**, and **Collaborative Projects**.
+* ⚡ Fun fact: I believe good code is like good design — invisible when it works.
 
 <br clear="right"/>
 
@@ -77,12 +77,12 @@
 
 <div align="center">
 
-| Category Stack | |
+| Category Stack        |                                                                                |
 | --------------------- | ------------------------------------------------------------------------------ |
-| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS |
-| **Backend** | Node.js · Express.js · REST APIs |
-| **Database** | MongoDB · MySQL |
-| **Tools & Platforms** | Git · GitHub · VS Code · Postman |
+| **Frontend**          | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS |
+| **Backend**           | Node.js · Express.js · REST APIs                                               |
+| **Database**          | MongoDB · MySQL                                                                |
+| **Tools & Platforms** | Git · GitHub · VS Code · Postman                                               |
 
 </div>
 
@@ -92,23 +92,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArunKumarPerannagari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&count_private=true" />
+### 📈 Contribution Activity
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ArunKumarPerannagari&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunKumarPerannagari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKumarPerannagari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" width="100%" />
+<p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArunKumarPerannagari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 
 </div>
 
@@ -121,20 +113,19 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-contribution-grid-snake-dark.svg"
   />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake.svg"
-  />
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-contribution-grid-snake.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
+<img
+ src="https://raw.githubusercontent.com/ArunKumarPerannagari/ArunKumarPerannagari/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake"
+ width="100%"
+/> </picture>
 
 </div>
 
@@ -154,10 +145,10 @@
 
 </div>
 
-- Built a full-stack AI-powered ATS platform that analyzes PDF resumes against job descriptions, generating ATS compatibility scores, keyword matches, missing skills, and actionable skill-gap insights.
-- Engineered RESTful backend APIs using **Node.js** and **Express.js**, with **MongoDB/Mongoose** for persistent storage of users, resumes, and analysis history — including resume upload, parsing, analysis, history, and comparison workflows.
-- Integrated the **Google Gemini API** to provide AI-driven resume evaluation, identifying strengths, weaknesses, missing skills, and personalized recommendations to improve alignment with target job descriptions.
-- Implemented **JWT-based authentication** and protected API routes, configured environment-based secret management, and deployed the production application using **Vercel** (frontend) and **Render** (backend).
+* Built a full-stack AI-powered ATS platform that analyzes PDF resumes against job descriptions, generating ATS compatibility scores, keyword matches, missing skills, and actionable skill-gap insights.
+* Engineered RESTful backend APIs using **Node.js** and **Express.js**, with **MongoDB/Mongoose** for persistent storage of users, resumes, and analysis history — including resume upload, parsing, analysis, history, and comparison workflows.
+* Integrated the **Google Gemini API** to provide AI-driven resume evaluation, identifying strengths, weaknesses, missing skills, and personalized recommendations to improve alignment with target job descriptions.
+* Implemented **JWT-based authentication** and protected API routes, configured environment-based secret management, and deployed the production application using **Vercel** (frontend) and **Render** (backend).
 
 <div align="center">
 
@@ -200,11 +191,26 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🏆 Achievement Badges
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArunKumarPerannagari&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=black" />
+
+<img src="https://img.shields.io/badge/AI%20Projects-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20API%20Development-0D1117?style=for-the-badge&logo=express&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB%20%7C%20MySQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </div>
 
